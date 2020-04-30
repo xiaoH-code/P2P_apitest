@@ -1,0 +1,4 @@
+2020-04-30 19:48:31,998 INFO [root] [test_login.py(test16_login_password_wrong:268)] - 密码错误3次后等待60秒，输入正确密码登录，响应为：{'status': 200, 'description': '登录成功'}
+2020-04-30 19:48:32,681 INFO [root] [test_login.py(test17_is_login_nologin:275)] - islogin response={'status': 250, 'description': '您未登陆！'}
+2020-04-30 19:48:33,416 INFO [root] [test_login.py(test18_is_login:283)] - login response={'status': 200, 'description': '登录成功'}
+2020-04-30 19:48:34,719 INFO [root] [test_login.py(test18_is_login:287)] - islogin response={'status': 200, 'description': 'OK'}

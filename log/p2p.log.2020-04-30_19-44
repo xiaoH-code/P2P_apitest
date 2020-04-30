@@ -1,0 +1,3 @@
+2020-04-30 19:44:30,493 INFO [root] [test_login.py(test04_sms_verify_success:96)] - phone = 13088881111
+2020-04-30 19:44:30,494 INFO [root] [test_login.py(test04_sms_verify_success:97)] - imVerifyCode = 8888
+2020-04-30 19:44:31,117 INFO [root] [test_login.py(test04_sms_verify_success:99)] - response={'status': 200, 'description': '短信发送成功'}
